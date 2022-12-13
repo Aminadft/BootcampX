@@ -1,0 +1,1 @@
+SELECT student_name, student_start_date, cohort_name, cohort_start_date
